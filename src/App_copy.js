@@ -8,65 +8,6 @@ const PARAM_SEARCH = 'query='
 
 
 
-//
-// const list = [
-//     {
-//         title: '江苏神州信源系统工程有限公司',
-//         url: 'https://jobs.zhaopin.com/343132413250305.htm',
-//         author: 'web前端开发',
-//         num_comments: '15K-20K',
-//         points: '建邺区',
-//         objectID: 0,
-//     },
-//     {
-//         title: '南京米雅途网络科技有限公司',
-//         url: 'https://jobs.zhaopin.com/CZ552531420J00001870107.htm',
-//         author: 'app前端开发工程师(web/app)',
-//         num_comments: '7K-13K',
-//         points: '玄武区',
-//         objectID: 1,
-//     },
-//     {
-//         title: '南京腾程文化传媒有限公司',
-//         url: 'https://jobs.zhaopin.com/CC818351160J00171242705.htm',
-//         author: 'Web前端开发',
-//         num_comments: '6K-8K',
-//         points: '玄武区',
-//         objectID: 3,
-//     },
-//     {
-//         title: '江苏中石电子科技有限公司',
-//         url: 'https://jobs.zhaopin.com/CZ454009130J00040661702.htm',
-//         author: 'web前端开发工程师',
-//         num_comments: '10K-15K',
-//         points: '雨花区',
-//         objectID: 4,
-//     },
-//     {
-//         title: '南京万物软件科技有限公司',
-//         url: 'https://jobs.zhaopin.com/475983931250145.htm',
-//         author: 'web前端开发工程师',
-//         num_comments: '9K-14K',
-//         points: '玄武区',
-//         objectID: 5,
-//     },
-//     {
-//         title: '江苏柠檬网络科技有限公司',
-//         url: 'https://jobs.zhaopin.com/268027587250020.htm',
-//         author: '前端开发工程师',
-//         num_comments: '5K-8K',
-//         points: '江宁区',
-//         objectID: 6,
-//     },
-//     {
-//         title: '南京聚奢网络科技有限公司',
-//         url: 'https://jobs.zhaopin.com/310811539250207.htm',
-//         author: 'Web前端开发（小程序）',
-//         num_comments: '8K-12K',
-//         points: '玄武区',
-//         objectID: 7,
-//     },
-// ]
 const largeColumn = { width: '40%', };
 const midColumn = { width: '30%', };
 const smallColumn = { width: '10%', }
